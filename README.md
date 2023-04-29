@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeemaMwende
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning springboot framework 
+- 🌱 I’m currently learning springboot framework and UI/UX Designs
 - 💞️ I’m looking to collaborate on various java projects to enhance my skills
 - 📫 How to reach me: gracepete12@gmail.com
 
