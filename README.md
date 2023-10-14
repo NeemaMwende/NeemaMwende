@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @NeemaMwende
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning springboot framework and UI/UX Designs
-- 💞️ I’m looking to collaborate on various java projects to enhance my skills
-- 📫 How to reach me: gracepete12@gmail.com
+const softwareEngineer = {
+  name: "Neema",
+  role: "Software Engineer",
+  languageSpoken: ["Swahili", "English"],
+  sayHi: function () {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  },
+  code: ["Javascript", "Reactjs", "HTML", "CSS", "Bootstrap"],
+  tools: ["Stack Overflow", "Node", "Styled-Components", "Github", "Music"],
+  techCommunities: {
+    Manager: "My own management",
+    "Building stuff": "Writing product code",
+  },
+};
 
-<!---
-NeemaMwende/NeemaMwende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+softwareEngineer.sayHi();
