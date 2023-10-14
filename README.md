@@ -2,8 +2,7 @@ const softwareEngineer = {
 
   name: "Neema",
   role: "Software Engineer",	
-  languageSpoken: ["Swahili", "English"],
-	
+  languageSpoken: ["Swahili", "English"],	
   sayHi: function () {
     console.log("Thanks for dropping by, hope you find some of my work interesting.");
   },
