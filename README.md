@@ -13,9 +13,9 @@ function SoftwareEngineer() {
   const tools = ["Stack Overflow", "Node", "Styled-Components", "Github", "Music"];
   const techCommunities =
 	{
-    Manager: "My own management",
-    "Building stuff": "Writing product code",
-  };
+	    Manager: "My own management",
+	    "Building stuff": "Writing product code",
+  	};
 
   return (
     <div>
