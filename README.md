@@ -10,21 +10,11 @@ class NeemaMwende:
         self.portfolio = "https://mynew-portfolio-alpha.vercel.app/"
 
         self.tech_stack = {
-            "Frontend": [
-                "HTML5", "CSS3", "JavaScript", "React.js", "Next.js", "TailwindCSS", "Bootstrap"
-            ],
-            "Backend": [
-                "Node.js", "Express.js", "Django", "Flask", "FastAPI"
-            ],
-            "Databases": [
-                "MySQL", "PostgreSQL", "Pinecone", "ChromaDB", "FAISS" 
-            ],
-            "AI & ML": [
-                "LangChain", "OpenAI API", "Ollama", "TensorFlow", "scikit-learn", "PyTorch", "Transformers", "HuggingFace", "Pandas", "NumPy"
-            ],
-            "DevOps & Tools": [
-                "Docker", "Git", "GitHub", "Render", "Vercel", "Streamlit", "Linux", "VS Code", "Postman"
-            ]
+            "Frontend": [ "HTML5", "CSS3", "JavaScript", "React.js", "Next.js", "TailwindCSS", "Bootstrap" ],
+            "Backend": [ "Node.js", "Express.js", "Django", "Flask", "FastAPI" ],
+            "Databases": [ "MySQL", "PostgreSQL", "Pinecone", "ChromaDB", "FAISS" ],
+            "AI & ML": [ "LangChain", "OpenAI API", "Ollama", "TensorFlow", "scikit-learn", "PyTorch", "Transformers", "HuggingFace", "Pandas", "NumPy" ],
+            "DevOps & Tools": [ "Docker", "Git", "GitHub", "Render", "Vercel", "Streamlit", "Linux", "VS Code", "Postman" ]
         }
 
     def say_hello(self):
