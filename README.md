@@ -6,7 +6,7 @@ class NeemaMwende:
         self.location = "Nairobi, Kenya"
         self.languages_spoken = ["English", "Swahili"]
         self.playground = "1s and 0s"
-        self.email = "neemamwende@example.com"
+        self.email = "neemamwende009@gmail.com"
         self.portfolio = "https://mynew-portfolio-alpha.vercel.app/"
 
         self.tech_stack = {
